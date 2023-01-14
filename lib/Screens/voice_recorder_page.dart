@@ -19,6 +19,7 @@ import 'package:voicerra/utils/utils.dart';
 import 'package:voicerra/widget/BarIndicator.dart';
 import 'package:wakelock/wakelock.dart';
 
+
 class RecPage extends StatefulWidget {
   const RecPage({super.key});
 

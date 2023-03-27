@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Notes',
+      title: 'Notes and Recorder',
       debugShowCheckedModeBanner: false,
       home: const MainPage(),
       theme: ThemeData(

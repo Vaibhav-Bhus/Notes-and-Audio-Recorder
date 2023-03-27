@@ -58,7 +58,7 @@ class _AddEditNotePageState extends State<AddEditNotePage> {
       );
 
   Widget buildButton() {
-    final isFormValid = title.isNotEmpty && description.isNotEmpty;
+    
 
     return Padding(
       padding: const EdgeInsets.symmetric(vertical: 8, horizontal: 12),
